@@ -19,12 +19,12 @@ Currently, this module supports only **Windows** operating system, because it us
 
 ## Installation
 
-To install the package, use [Poetry](https://python-poetry.org/):
+To install the package, use [GIT](https://git-scm.com/):
 
 ```
-poetry add inputx
+git clone https://github.com/KonstantinDigital/Inputx.git
 ```
-Or install directly from PyPI:
+Or install directly from [PyPI](https://pypi.org/project/inputx/):
 
 ```
 pip install inputx
